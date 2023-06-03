@@ -1,0 +1,15 @@
+C:\Users\Тумэн\source\repos\consolegame\consolegame\bin\Debug\net7.0\consolegame.exe
+C:\Users\Тумэн\source\repos\consolegame\consolegame\bin\Debug\net7.0\consolegame.deps.json
+C:\Users\Тумэн\source\repos\consolegame\consolegame\bin\Debug\net7.0\consolegame.runtimeconfig.json
+C:\Users\Тумэн\source\repos\consolegame\consolegame\bin\Debug\net7.0\consolegame.dll
+C:\Users\Тумэн\source\repos\consolegame\consolegame\bin\Debug\net7.0\consolegame.pdb
+C:\Users\Тумэн\source\repos\consolegame\consolegame\obj\Debug\net7.0\consolegame.csproj.AssemblyReference.cache
+C:\Users\Тумэн\source\repos\consolegame\consolegame\obj\Debug\net7.0\consolegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тумэн\source\repos\consolegame\consolegame\obj\Debug\net7.0\consolegame.AssemblyInfoInputs.cache
+C:\Users\Тумэн\source\repos\consolegame\consolegame\obj\Debug\net7.0\consolegame.AssemblyInfo.cs
+C:\Users\Тумэн\source\repos\consolegame\consolegame\obj\Debug\net7.0\consolegame.csproj.CoreCompileInputs.cache
+C:\Users\Тумэн\source\repos\consolegame\consolegame\obj\Debug\net7.0\consolegame.dll
+C:\Users\Тумэн\source\repos\consolegame\consolegame\obj\Debug\net7.0\refint\consolegame.dll
+C:\Users\Тумэн\source\repos\consolegame\consolegame\obj\Debug\net7.0\consolegame.pdb
+C:\Users\Тумэн\source\repos\consolegame\consolegame\obj\Debug\net7.0\consolegame.genruntimeconfig.cache
+C:\Users\Тумэн\source\repos\consolegame\consolegame\obj\Debug\net7.0\ref\consolegame.dll
