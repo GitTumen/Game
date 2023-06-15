@@ -1,4 +1,5 @@
 ﻿using System;
+using consolegame;
 
 namespace SumGame
 {
@@ -18,14 +19,14 @@ namespace SumGame
             {
                 Console.WriteLine($"\nЗадание {i + 1}:");
 
-                int num1 = GenerateRandomNumber();
-                int num2 = GenerateRandomNumber();
+                int num1 = Rand.GenerateRandomNumber();
+                int num2 = Rand.GenerateRandomNumber();
 
                 while (attemptsLeft > 0)
                 {
                     Console.WriteLine($"Сложите два числа:\n{num1} + {num2} = ?");
                     Console.Write("Ответ: ");
-                    int answer = ReadIntAnswer();
+                    int answer = ReadIntAnswer.ReadIntAnswerFunction();
                     if (answer == num1 + num2)
                     {
                         Console.WriteLine("Правильно!");
@@ -52,25 +53,6 @@ namespace SumGame
             }
             Console.WriteLine("\nНажмите Enter, чтобы выйти...");
             Console.ReadLine();
-        }
-
-        static int GenerateRandomNumber()
-        {
-            Random rand = new Random();
-            int num = rand.Next(1, 101);
-            return num;
-        }
-
-        static int ReadIntAnswer()
-        {
-         while (true) {
-        string input = Console.ReadLine();
-        if (int.TryParse(input, out int answer)) {
-          return answer;
-        } else {
-          Console.WriteLine("Вы ввели некорректное значение. Пожалуйста, введите целое число:");
-        }
-      }
         }
     }
 }

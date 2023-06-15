@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Тумэн\\source\\repos\\consolegame\\consolegame\\consolegame.csproj": {}
+    "C:\\Users\\Тумэн\\Source\\Repos\\Game\\consolegame\\consolegame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Тумэн\\source\\repos\\consolegame\\consolegame\\consolegame.csproj": {
+    "C:\\Users\\Тумэн\\Source\\Repos\\Game\\consolegame\\consolegame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Тумэн\\source\\repos\\consolegame\\consolegame\\consolegame.csproj",
+        "projectUniqueName": "C:\\Users\\Тумэн\\Source\\Repos\\Game\\consolegame\\consolegame.csproj",
         "projectName": "consolegame",
-        "projectPath": "C:\\Users\\Тумэн\\source\\repos\\consolegame\\consolegame\\consolegame.csproj",
+        "projectPath": "C:\\Users\\Тумэн\\Source\\Repos\\Game\\consolegame\\consolegame.csproj",
         "packagesPath": "C:\\Users\\Тумэн\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Тумэн\\source\\repos\\consolegame\\consolegame\\obj\\",
+        "outputPath": "C:\\Users\\Тумэн\\Source\\Repos\\Game\\consolegame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Тумэн\\AppData\\Roaming\\NuGet\\NuGet.Config",
